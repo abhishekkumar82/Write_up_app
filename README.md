@@ -80,7 +80,7 @@ npx nodemon app.js
 
    <br>
    <h2>Dashboard Page</h2>
-   <img width="941" alt="Dashboard" src="https://github.com/Swati-Tanu/Write-Up/assets/112818778/b624ec4c-47ae-4f08-b782-cc2f98ff388c">
+   <img width="941" alt="Dashboard" src="">
 
  
 <div/>
