@@ -75,12 +75,12 @@ npx nodemon app.js
 
  <div align = "center">
    <h2>Landing Page</h2>
-   <img width="946" alt="Landing Page" src="https://github.com/Swati-Tanu/Write-Up/assets/112818778/cb46affd-eb01-4f75-8461-d4788fb4458e">
+   <img width="946" alt="Landing Page" src="https://res.cloudinary.com/dfjxrrfs6/image/upload/v1732137642/Screenshot_2024-11-21_024735_lblr7f.png">
 
 
    <br>
    <h2>Dashboard Page</h2>
-   <img width="941" alt="Dashboard" src="">
+   <img width="941" alt="Dashboard" src="https://res.cloudinary.com/dfjxrrfs6/image/upload/v1732137308/Screenshot_2024-11-21_021548_ezcbhs.png">
 
  
 <div/>
