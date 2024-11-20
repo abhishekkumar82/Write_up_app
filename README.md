@@ -1,7 +1,7 @@
 ## ABOUT THE PROJECT
 <h1> Write Up </h1>
 <div align="center"  width="100" height="100">
-  <img src="public/img/logo.png" alt="html"  height="100"/>
+  <img src="https://res.cloudinary.com/dfjxrrfs6/image/upload/v1732137732/logo_2_ubggns.png" alt="html"  height="100"/>
   <br>
   <br>
   <p>Welcome to Write Up, a note-taking app that provides their user with a sleek and user-friendly interface. Create new notes with just a few taps and enjoy the seamless experience and stay organized.</p>
