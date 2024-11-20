@@ -90,12 +90,12 @@ npx nodemon app.js
 | :----: | 
    
 
-[Live](https://tasty-jade-fossa.cyclic.app/)
+[Live]([https://tasty-jade-fossa.cyclic.app/](https://write-up-app-5.onrender.com))
 
 
  
 | `Author` |
 | :-------: | 
  
- [SWATI TANU](https://github.com/Swati-Tanu) 
+ [ABHISHEK KUMAR](https://github.com/Swati-Tanu) 
  
